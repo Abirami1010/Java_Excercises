@@ -1,6 +1,6 @@
 package Ex_02_Java_Basics;
 
-public class Lab_030_Interview_Qstn_Concat_Concept {
+public class Lab030_Interview_Qstn_Concat_Concept {
     public static void main(String[] args) {
          String s1 = "Good";
          String s2 = "luck";

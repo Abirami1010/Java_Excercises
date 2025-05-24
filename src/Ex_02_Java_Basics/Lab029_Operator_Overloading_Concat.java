@@ -1,6 +1,6 @@
 package Ex_02_Java_Basics;
 
-public class Lab_029_Operator_Overloading_Concat {
+public class Lab029_Operator_Overloading_Concat {
     public static void main(String[] args) {
         String s1="Welcome";
         String s2="Onboard";
