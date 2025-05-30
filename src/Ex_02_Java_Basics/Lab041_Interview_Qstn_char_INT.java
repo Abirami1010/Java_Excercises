@@ -1,0 +1,11 @@
+package Ex_02_Java_Basics;
+
+public class Lab041_Interview_Qstn_char_INT {
+    public static void main(String[] args) {
+        char a1 = 'A';  // ASCII -65
+        char b1 = 'B';  // 66
+        System.out.println(a1 + b1);
+        System.out.println('A' == 65);
+
+    }
+}
